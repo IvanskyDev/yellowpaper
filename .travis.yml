@@ -13,7 +13,7 @@ deploy:
     branch: master
 env:
   global:
-    - ENCRYPTION_LABEL="19a81de38b62"
+    - ENCRYPTION_LABEL=""
     - COMMIT_AUTHOR_EMAIL="chris@ethereum.org"
     - COMMIT_AUTHOR="Travis CI"
     - PUSH_REPO="git@github.com:ethereum/yellowpaper.git"
